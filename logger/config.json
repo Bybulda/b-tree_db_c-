@@ -1,0 +1,7 @@
+{
+  "logs_trace.log": "trace",
+  "logs_info.log": "information",
+  "logs_debug.log": "debug",
+  "logs_warning.log": "warning",
+  "logs_critical.log": "critical"
+}
